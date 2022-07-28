@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.app.dao.ITutorialDao;
 import com.app.service.ITopicService;
-
+// this is simple code
 @Controller
 @RequestMapping("/customer")
 public class CustomerController {
